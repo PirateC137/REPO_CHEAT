@@ -1,4 +1,4 @@
-Run REPOSITORY, then launch REPO_C.exe.
+Run REPO, then launch REPO_C.exe.
 
 The REPO_C.exe application may be flagged by antivirus software as malicious because it uses a simple DLL injection method to interact with a specific process.
 
