@@ -1,6 +1,6 @@
 A small internal cheat
 
-Show/Hide manu -> Ins/Shift + Ins
+Show/Hide menu -> Ins/Shift + Ins
 
 Run REPO, then launch REPO_C.exe.
 
