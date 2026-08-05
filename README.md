@@ -8,6 +8,6 @@ The REPO_C.exe application may be flagged by antivirus software as malicious bec
 
 The REPO_C.dll file may also be detected as malicious by some antivirus engines when scanned on VirusTotal, due to the use of MinHook API hooks.
 
-Before moving to new locations or starting from the main menu, make sure the CutScene checkbox is enabled to avoid crashes.
+To avoid crashes, uncheck all the boxes in the Visual tab when switching from the game to the menu.
 
-This is a demo version, so it will continue to evolve!
+This is a beta version, so it will continue to evolve!
